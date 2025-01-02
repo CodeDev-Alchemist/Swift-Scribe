@@ -104,7 +104,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Author
 
 Created by [CodeDev-Alchemist]
-Inspired by jamezmca
+
+Inspired by [jamezmca]
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
